@@ -1,4 +1,4 @@
-from brownie import APIConsumer, accounts, chain,config, interface, network, Contract
+from brownie import APIConsumer, accounts,config, interface, network
 import time
 
 def main():
